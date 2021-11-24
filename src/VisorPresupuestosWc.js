@@ -35,3 +35,5 @@ export class VisorPresupuestosWc extends LitElement {
     `;
   }
 }
+
+customElements.define('visor-presupuestos-wc', VisorPresupuestosWc);
